@@ -4,54 +4,42 @@
 ### Nama: m.vandi riyansa
 ### kelas:XI-RPL 2
 ### No : 13
- Laporan Modul 1 dan 2 Prak Basis Data
+Laporan Modul 1 dan 2 Prak Basis Data
+
+#### 1. install xampp terlebih dahulu 
+![image](https://user-images.githubusercontent.com/113566581/190321234-7b6dc575-b292-4693-addd-e8b5b70a88aa.png)
+#### 2.aktifkan mysql di aplikasi xampp
+![image](https://user-images.githubusercontent.com/113566581/190326335-219710cf-ad4b-4ff9-9351-c12dbbc04cc7.png)
+#### 3.kemudian masuk ke command prompt
+![image](https://user-images.githubusercontent.com/113566581/190327016-751a1a41-cbd4-4748-91ae-dc3655de15f5.png)
+#### 4.masuk direktoriy mysql,pilih yang paling atas
+![image](https://user-images.githubusercontent.com/113566581/190328445-d8ca1afd-2c82-4a8e-89b8-71ffa45a9cef.png)
+####5.ketik syntak berikut untuk masuk ke mariaDB
+![image](https://user-images.githubusercontent.com/113566581/190329493-7efcbc92-5c15-4c29-b446-e236570eae18.png)
+## MODUL 2 
+
+
+#### 1. cara melihat daftar database
+![image](https://user-images.githubusercontent.com/113566581/190330127-194b9b37-d07f-4606-ba5e-c25ea0cad3fc.png)
+#### 2. cara membuat data base 
+![image](https://user-images.githubusercontent.com/113566581/190330767-d376c33d-889b-4ee0-9de9-b29eb3fd8408.png)
+#### 3. cara memilih dan dandaftar database yang kita inginkan
+![image](https://user-images.githubusercontent.com/113566581/190331913-ac26db5a-b40f-437b-ad60-8b5d28a81ba3.png)
+#### 4. cara membuat table
+![image](https://user-images.githubusercontent.com/113566581/190332311-9d7f83a6-039e-4af4-b9e8-d60187fd0fb0.png)
+#### 5. cara melihat daftar table
+![image](https://user-images.githubusercontent.com/113566581/190332675-8e6e4f21-d377-4e45-96f6-2f429bf68667.png)
+#### 6. cara melihat isi dari ( struktur) di sebuah tabel
+![image](https://user-images.githubusercontent.com/113566581/190333016-24501056-5859-4eb5-818f-67e5eaa71446.png)
+
+                                  ** TUGAS HARI INI TELAH SELESAI **
+
+
+
+
+
+
+
+
+
  
-
->## Modul 1
-
-### 1.Install Xampp terlebih dahulu
-
-![image](https://user-images.githubusercontent.com/92255670/190301531-fff847a3-2912-499c-90dc-98b112097e43.png)
-
-
-### 2.aktifkan mysql di xampp
-
-![image](https://user-images.githubusercontent.com/92255670/190300828-bc545470-06b3-49e6-86c7-2a8d147eab8f.png)
-
-### 3.kemudian masuk ke command prompt 
-
-![image](https://user-images.githubusercontent.com/92255670/190300950-b3c6cf63-dc30-454a-88ea-089139b4a69b.png)
-
-### 4.Masuk direktori Mysql 
-
-
-cd xampp/mysql/bin
-
-
-![image](https://user-images.githubusercontent.com/92255670/190303407-b4246b76-6ec3-4c79-af39-114aecb26db5.png)
-
-### 5.ketik syntaks berikut untuk masuk ke MariaDB
-
-mysql -u root
-
-
-![image](https://user-images.githubusercontent.com/92255670/190308626-753b3710-6ba3-4ce7-8e66-224a08e8780a.png)
-
-*Di atas sudah bisa menuliskan query*
-
-
-
->## Modul 2
-- ### Cara melihat daftar database
-
-show databases;
-
-
-![image](https://user-images.githubusercontent.com/92255670/190309535-53e99a2d-071f-4b8a-a6b5-d7f9b6c4cd75.png)
-
-- ### Cara membuat database atau table 
-
-create database nama_database;
-
-
-create table nama_table(nama varchar(59)not null,no int(2)not null);
